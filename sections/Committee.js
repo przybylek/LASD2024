@@ -12,7 +12,7 @@ const Commitee = ({ people }) => (
 */
 
 const Commitee = () => (
-  <Container className="section">
+  <Container className="bg-white section p-4 my-5 rounded">
     <a className='target' id='committee'/>
     <h2 className='display-4 anchor'>Program Commitee</h2>
     <h3>To be announced later...</h3>
