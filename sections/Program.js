@@ -17,7 +17,36 @@ const Program = () => (
     </Container>
 
 
-{/*
+
+)
+
+export default Program
+
+
+//    <Row className="justify-content-center my-5">
+//      <Col xs lg="1"> 
+//      </Col>
+//
+//      <Col xs lg="2"> 
+//        <Image fluid src='/LNBIP_LASD22.jpg' alt='LNBIP_LASD22'/>
+//      </Col>
+//      <Col>
+//  <h4>Lean and Agile Software Development</h4>
+//  <h5>6th International Conference, LASD 2022, Virtual Event, January 22, 2022, Proceedings</h5>
+//  <h4><a href="https://link.springer.com/book/10.1007/978-3-030-94238-0">LNBIP, volume 438</a></h4>          
+//      <p className='mt-4'>Time zone of the conference: GMT+1 (Central European Standard Time)</p>
+//      <p>Current Time:
+//         <Clock 
+//           format={'HH:mm:ss'}
+//           ticking={true}
+//           className="mx-2" />
+//       </p>
+//      </Col>
+//     <Col xs lg="1"> 
+//      </Col>
+//    </Row> 
+
+/*
     <Container className="bg-white section p-4 rounded">
     <a className='target' id='program'/>
     <h2 className='display-4 anchor mb-3'>Program</h2>
@@ -54,31 +83,4 @@ const Program = () => (
       </tbody>
     </Table>
   </Container>
-*/}
-)
-
-export default Program
-
-
-//    <Row className="justify-content-center my-5">
-//      <Col xs lg="1"> 
-//      </Col>
-//
-//      <Col xs lg="2"> 
-//        <Image fluid src='/LNBIP_LASD22.jpg' alt='LNBIP_LASD22'/>
-//      </Col>
-//      <Col>
-//  <h4>Lean and Agile Software Development</h4>
-//  <h5>6th International Conference, LASD 2022, Virtual Event, January 22, 2022, Proceedings</h5>
-//  <h4><a href="https://link.springer.com/book/10.1007/978-3-030-94238-0">LNBIP, volume 438</a></h4>          
-//      <p className='mt-4'>Time zone of the conference: GMT+1 (Central European Standard Time)</p>
-//      <p>Current Time:
-//         <Clock 
-//           format={'HH:mm:ss'}
-//           ticking={true}
-//           className="mx-2" />
-//       </p>
-//      </Col>
-//     <Col xs lg="1"> 
-//      </Col>
-//    </Row> 
+*/
