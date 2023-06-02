@@ -8,7 +8,7 @@ import Clock from 'react-live-clock'
 
 
 const Program = () => (
-    <Container className="bg-white section p-4 rounded">
+    <Container className="bg-white section p-4 my-5 rounded">
       <a className='target' id='program'/>
       <h2 className='display-4 anchor mb-3'>Program</h2>
       <p>
@@ -47,7 +47,8 @@ export default Program
 //    </Row> 
 
 /*
-    <Container className="bg-white section p-4 rounded">
+  
+    <Container className="bg-white section p-4 my-5 rounded">
     <a className='target' id='program'/>
     <h2 className='display-4 anchor mb-3'>Program</h2>
 

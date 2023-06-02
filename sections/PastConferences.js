@@ -5,7 +5,7 @@ import Card from 'react-bootstrap/Card'
 
 const conferences = [
   {
-    title: "LASD'23",
+    title: "LASD@SAC'23",
     location: "Tallinn 2023",
     website: "https://y2023.lasd.pl",
     proceedings: "https://www.sigapp.org/sac/sac2023/"
