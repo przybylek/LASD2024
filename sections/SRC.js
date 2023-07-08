@@ -7,7 +7,7 @@ const SRC = () => (
     <a className='target' id='src'/>
     <h2 className='display-4 anchor mb-3'>Student Research Competition (SRC)</h2>
     <p>
-      Students are invited to submit research abstracts (maximum of 4 pages in ACM camera-ready format) following the instructions published at the SAC 2023 website.
+      Students are invited to submit research abstracts (maximum of 4 pages in ACM camera-ready format) following the instructions published at the SAC 2024 website.
     </p>
       <Row className="justify-content-center my-3">
         <Button className="btn-lg" href='https://softconf.com/n/sac-src2024/'>Submit a SRC abstract</Button>

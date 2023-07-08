@@ -9,7 +9,7 @@ const Submissions = () => (
     <a className='target' id='submissions'/>
     <h2 className='display-4 anchor mb-3'>Submissions</h2>
     <p>
-      Research papers and experience reports related to the above topics are solicited. Papers should be submitted in the PDF format using the ACM-SAC proceedings <a href="https://www.sigapp.org/sac/sac2023/authorkit.html">format</a> via the START submission system. <strong>Full papers</strong> are limited to <strong>8 pages</strong> with the option (at an extra charge) to add 2 more pages.</p>
+      Research papers and experience reports related to the above topics are solicited. Papers should be submitted in the PDF format using the ACM-SAC proceedings <a href="https://www.sigapp.org/sac/sac2024/authorkit.php">format</a> via the START submission system. <strong>Full papers</strong> are limited to <strong>8 pages</strong> with the option (at an extra charge) to add 2 more pages.</p>
       <Row className="justify-content-center my-3">
         <Button className="btn-lg" href='https://softconf.com/n/sac2024/'>Submit a paper</Button>
       </Row>
@@ -32,4 +32,4 @@ const Submissions = () => (
 
 export default Submissions
 
-//    <p>An extended version of the best papers will be forwarded for further procedure in <em>Computer Science and Information Systems</em> (<a href="http://www.comsis.org">ComSIS</a>, IF: 1.167) and <em>Journal of Computer Languages</em> (<a href="https://www.journals.elsevier.com/journal-of-computer-languages">Cola</a>, IF: 1.271).</p>
+//    <p>An extended version of the best papers will be forwarded for further procedure in <em>Computer Science and Information Systems</em> (<a href="http://www.comsis.org">ComSIS</a>, IF: 1.4) and <em>Journal of Computer Languages</em> (<a href="https://www.journals.elsevier.com/journal-of-computer-languages">Cola</a>, IF: 2.2).</p>

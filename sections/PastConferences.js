@@ -8,7 +8,7 @@ const conferences = [
     title: "LASD@SAC'23",
     location: "Tallinn 2023",
     website: "https://y2023.lasd.pl",
-    proceedings: "https://www.sigapp.org/sac/sac2023/"
+    proceedings: "https://dl.acm.org/doi/proceedings/10.1145/3555776#heading21"
   },
   {
     title: "LASD'22",

@@ -6,13 +6,15 @@ const Topics = () => (
     <a className='target' id='topics'/>
     <h2 className="display-4 anchor mb-3">Topics of Interest</h2>
     <ListGroup  variant='flush' >
+	<ListGroup.Item><i className="far fa-check-circle text-primary mr-3"/> AI-driven Agile Software Development</ListGroup.Item>
+	<ListGroup.Item><i className="far fa-check-circle text-primary mr-3"/> LLMs for improved efficiency</ListGroup.Item>
 	<ListGroup.Item><i className="far fa-check-circle text-primary mr-3"/> Agile teams in the post-COVID era</ListGroup.Item>
+	<ListGroup.Item><i className="far fa-check-circle text-primary mr-3"/> Integrating DevOps, Agile, and CI/CD for end-to-end software development and deployment</ListGroup.Item>
 	<ListGroup.Item><i className="far fa-check-circle text-primary mr-3"/> Lean and agile requirements engineering</ListGroup.Item>
 	<ListGroup.Item><i className="far fa-check-circle text-primary mr-3"/> Scaling agile methods</ListGroup.Item>
 	<ListGroup.Item><i className="far fa-check-circle text-primary mr-3"/> Distributed teams in Agile Software Development</ListGroup.Item>
 	<ListGroup.Item><i className="far fa-check-circle text-primary mr-3"/> Challenges of migrating to lean and agile methods</ListGroup.Item>
 	<ListGroup.Item><i className="far fa-check-circle text-primary mr-3"/> Balancing agility and discipline</ListGroup.Item>
-	<ListGroup.Item><i className="far fa-check-circle text-primary mr-3"/> Combining lean and agile</ListGroup.Item>
 	<ListGroup.Item><i className="far fa-check-circle text-primary mr-3"/> Lean and agile coaching</ListGroup.Item>
 	<ListGroup.Item><i className="far fa-check-circle text-primary mr-3"/> Collaborative games in Software Process Improvement</ListGroup.Item>
 	<ListGroup.Item><i className="far fa-check-circle text-primary mr-3"/> Lean and agility at the enterprise level</ListGroup.Item>
