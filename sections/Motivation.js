@@ -14,8 +14,12 @@ const Motivation = () => (
       Furthermore, Scrum, XP, and Kanban were originally designed for small, single teams and do not provide guidance on dealing with scaling issues, while the last decade has seen the spread of agile into large-scale and distributed projects. To help companies in large-scale transformations, several agile scaling frameworks including LeSS, S@S, Nexus and SAFe have been proposed. These off-the-shelf solutions incorporate predefined workflow patterns to deal with issues related to large number of teams, inter-team coordination, and lack of up-front architecture. Nevertheless, numerous challenges while adopting off-the-shelf frameworks have been reported, including mismatch between framework and organization, changes in management structure, changes in company's policies, and the impossibility of fully implementing the whole framework at once.
     </p>
     <p>
-      On top of that, the COVID-19 pandemic has forced co-located teams, who relied on face-to-face communication for work coordination, to transition into a remote work environment, which agile methods just ignore.
+      On top of that, the COVID-19 pandemic has forced co-located teams, who relied on face-to-face communication for work coordination, to transition into a remote work environment. Since agile methods lack guidelines for remote work, it falls upon the agile community to develop systematic solutions for remote agile teams.    
     </p>
+    <p>
+      Currently, we are witnessing a pervasive hype surrounding generative AI coding tools that leverage Large Language Models (LLMs). These tools enable developers to accelerate coding, testing, debugging, refactoring, and documentation processes. Additionally, fine-tuned LLMs hold potential for enhancing non-programming tasks like user story refinement, estimation, and prioritization. These remarkable advancements not only evoke excitement but also open up new research directions to further explore and optimize the integration of generative AI tools within the realm of Agile Software Development.
+    </p>
+
   </Container>
 )
 
