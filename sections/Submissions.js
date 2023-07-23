@@ -17,13 +17,13 @@ const Submissions = () => (
       Each submission will be reviewed by at least three program committee members. To facilitate the double-blind reviewing, authors are kindly requested to provide the paper WITHOUT any reference to any of the authors, including the authors' personal details, the acknowledgments section of the paper and any other reference that may disclose the authors' identity.
     </p>
     <p>
-      Papers that receives positive reviews but are not accepted due to space limitation are invited for the poster session. The length of <strong>poster papers</strong> is <strong>2 pages</strong> (included in the registration) + 1 page (at an extra charge). 
+      Papers that receives positive reviews but are not accepted due to space limitation are invited for the poster session. The length of <strong>poster papers</strong> is <strong>3 pages</strong> (included in the registration) + 1 page (at an extra charge). 
     </p>
     <p>
       Upon paper acceptance, prospective authors must provide a camera-ready version which takes into account the review comments. The conference proceedings will be published by ACM and also available online through the ACM Digital Library.
     </p>
     <p>
-      Paper registration is required, allowing the inclusion of the paper/poster in the conference proceedings. An author or a proxy attending SAC MUST present the paper. This is a requirement for the paper/poster to be included in the ACM digital library. No-show of registered papers and posters will result in excluding them from the ACM digital library.
+      Paper registration is required, allowing the inclusion of the paper/poster in the conference proceedings. An author or a proxy must present the paper. This is a requirement for the paper/poster to be included in the ACM digital library. <span className='text-danger font-weight-bold'>Authors who cannot make on-site presentations due to travel or health restrictions may request to present their materials online.</span> No-presentation of registered papers and posters will result in excluding them from the ACM digital libray.
     </p>
 
 
