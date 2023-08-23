@@ -17,7 +17,7 @@ const Submissions = () => (
       Each submission will be reviewed by at least three program committee members. To facilitate the double-blind reviewing, authors are kindly requested to provide the paper WITHOUT any reference to any of the authors, including the authors' personal details, the acknowledgments section of the paper and any other reference that may disclose the authors' identity.
     </p>
     <p>
-      Papers that receives positive reviews but are not accepted due to space limitation are invited for the poster session. The length of <strong>poster papers</strong> is <strong>3 pages</strong> (included in the registration) + 1 page (at an extra charge). 
+      Papers that receives positive reviews but are not accepted due to space limitation are invited for the poster session. The length of <strong>poster papers</strong> is <strong>2 pages</strong> (included in the registration) + 1 page (at an extra charge). 
     </p>
     <p>
       Upon paper acceptance, prospective authors must provide a camera-ready version which takes into account the review comments. The conference proceedings will be published by ACM and also available online through the ACM Digital Library.
