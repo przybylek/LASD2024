@@ -53,7 +53,7 @@ const PastConferences = () => (
   <Container fluid="md" className='section pb-5 px-4 mt-5'>
 
     <a className='target' id='conferences'/>
-    <h2 className="display-4 anchor mb-3">Past Conferences</h2>    
+    <h2 className="display-4 anchor mb-3">History</h2>    
     <Row className="justify-content-md-center m-1">
       {conferences.map(c => (
       <Col key={c.title} md='auto' className="m-2">
