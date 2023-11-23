@@ -13,8 +13,8 @@ const ImportantDates = () => (
             <ScheduleDateItem date="2023-10-13" text="Paper submission"/>
             <ScheduleDateItem date="2023-11-13" text="Reviews due date"/>
             <ScheduleDateItem date="2023-11-17" text="Author notification"/>
-            <ScheduleDateItem date="2023-12-15" text="Camera-ready copies of accepted papers/SRC"/>
-            <ScheduleDateItem date="2023-12-15" text="Author registration due date"/>
+            <ScheduleDateItem date="2024-01-05" text="Camera-ready copies of accepted papers/posters/SRC"/>
+            <ScheduleDateItem date="2024-01-05" text="Author registration due date"/>
         </ul>
       </Col>
     </Row>
