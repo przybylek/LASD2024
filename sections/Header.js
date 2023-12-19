@@ -18,7 +18,7 @@ const Header = () => (
           <h4 className='text-center h5 pb-3'>Avila, Spain</h4>
           <h5 className='text-center h6 text-info'>Authors who cannot make on-site presentations due to travel or health restrictions may request to present their materials online.</h5>
 	  <h4 className='text-center h5'>
-		<span className='badge bg-warning p-2 m-3'><a className='u' href='https://isd2024.ug.edu.pl'>LASD@ISD'24</a> (Gdańsk, August 26–28)</span>
+		<span className='badge bg-warning p-2 m-3'><a className='u' href='https://isd2024.ug.edu.pl'>LASD@ISD'24</a>, August 26–28, Gdańsk, Poland</span>
 	  </h4>
 
 
