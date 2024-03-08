@@ -6,7 +6,7 @@ import Col from 'react-bootstrap/Col'
 import React from 'react'
 import Clock from 'react-live-clock'
 
-
+/*
 const Program = () => (
     <Container className="bg-white section p-4 my-5 rounded">
       <a className='target' id='program'/>
@@ -18,6 +18,45 @@ const Program = () => (
 
 
 
+)
+*/
+
+const Program = () => (
+    <Container className="bg-white section p-4 my-5 rounded">
+    <a className='target' id='program'/>
+    <h2 className='display-4 anchor mb-3'>Program</h2>
+
+
+
+    <Table bordered className="mt-5">
+      <tbody>	
+
+        <tr className='text-center table-primary'><th>Wednesday, April 10,</th><th>Session I (Room 2); session chair: <em>Adam Przybyłek</em></th></tr>
+        <tr><td className='text-nowrap'>14:30 - 14:40</td><td><a href='/' target="_blank" rel="noopener noreferrer">Track opening</a> (<em>Adam Przybyłek</em>)</td></tr>
+        <tr><td className='text-nowrap'>14:40 - 15:00</td><td>Common LeSS Transformation Patterns (<em>Alena Buchalcevova and Jakub Hermanek</em>)</td></tr>
+        <tr><td className='text-nowrap'>15:00 - 15:20</td><td>Beyond Technical Debt Unravelling Organisational Debt Concept (<em>Muhammad Ovais Ahmad and Osama Al-Baik</em>)</td></tr>
+        <tr><td className='text-nowrap'>15:20 - 15:40</td><td>Challenges to Sustaining Agility: An Exploratory Case Study (<em>Mali Senapathi and Diane E Strode</em>)</td></tr>
+        <tr><td className='text-nowrap'>15:40 - 16:00</td><td>Navigating Cultural Diversity: Barriers and Benefits in Multicultural Agile Software Development Teams (<em>Daniel Welsch, Luisa Burk, David Mötefindt and Michael Neumann</em>)</td></tr>
+
+        <tr><th className='text-center table-secondary' colSpan={2}></th></tr>
+        <tr className='text-center table-primary'><th>Wednesday, April 10,</th><th>Session II (Room 2); session chair: <em>Michael Neumann</em></th></tr>
+        <tr><td className='text-nowrap'>16:30 - 16:50</td><td>Technical Debt Management in Agile Context: A new framework and case study in a large financial institution (<em>Gisela Archela, Ana C V Melo and Vagner Luiz Gava</em>)</td></tr>
+        <tr><td className='text-nowrap'>16:50 - 17:10</td><td>Revisiting Technical Debt Types and Indicators for Software Systems (<em>Dilek Caglayan and Ozden Ozcan-Top</em>)</td></tr>
+        <tr><td className='text-nowrap'>17:10 - 17:30</td><td>The use of prototypes as a tool in Agile software development (<em>Vivian Larrea, Milene Selbach Silveira and Tiago da Silva</em>)</td></tr>
+
+
+        <tr><th className='text-center table-secondary' colSpan={2}></th></tr>
+        <tr className='text-center table-primary'><th>Wednesday, April 10</th><th>Poster Exhibit (Hallway - 0 floor)</th></tr>
+        <tr><td className='text-nowrap'>15:00 - 17:00</td><td>
+          <ul>
+             <li>UMask-AFL: Unmasking All Reachable Targets for Comprehensive Agile Fuzzing (<em>Sangharatna Godboley, Bikash Singha, Monika Rani Golla and P. R Krishna</em>)</td></tr></li>
+             <li>Implementing Action Items Over Improving the Format of Retros (<em>Yen Ying Ng and Ryszard Kuduk</em>)</td></tr></li>
+          </ul>
+        </td></tr>
+
+      </tbody>
+    </Table>
+  </Container>
 )
 
 export default Program
@@ -46,42 +85,5 @@ export default Program
 //      </Col>
 //    </Row> 
 
-/*
+
   
-    <Container className="bg-white section p-4 my-5 rounded">
-    <a className='target' id='program'/>
-    <h2 className='display-4 anchor mb-3'>Program</h2>
-
-
-
-    <Table bordered className="mt-5">
-      <tbody>	
-
-        <tr className='text-center table-primary'><th>Tuesday,<br /> March. 28</th><th>SRC Poster Exhibit (room: A046)</th></tr>
-        <tr><td className='text-nowrap'>14:00 - 16:00</td><td>Why and Where Software Developers are (Not) using Project Data in Agile Retrospectives (<em>Leon Bein</em>)</td></tr>
-        <tr><th className='text-center table-secondary' colSpan={2}></th></tr>
-
-        <tr className='text-center table-primary'><th>Wednesday, March. 29</th><th>Full Paper Session (room: A224)</th></tr>
-        <tr><td className='text-nowrap'>11:00 - 11:05</td><td><a href='/LASD2023.ppt' target="_blank" rel="noopener noreferrer">Track opening</a> (<em>Adam Przybyłek</em>)</td></tr>
-
-        <tr><td className='text-nowrap'>11:05 - 11:20</td><td>Towards a Recommender System-Based Process for Managing Risks in Scrum Projects (<em>Ademar Sousa Neto, Felipe Ramos, Danyllo Albuquerque, Emanuel Dantas, Mirko Perkusich, Hyggo Almeida, Angelo Perkusich</em>)</td></tr>
-        <tr><td className='text-nowrap'>11:20 - 11:35</td><td>Tailoring Hybrid Software Processes in a Medium-Size Software Company  (<em>Jacqueline Marín, Julio Ariel Hurtado, María Cecilia Bastarrica, Luis Silvestre</em>)</td></tr>
-        <tr><td className='text-nowrap'>11:35 - 11:50</td><td>Challenges in Large-Scale Agile Software Development Projects (<em>Hina Saeeda, Muhammad Ovais Ahmad, Tomas Gustavsson</em>)</td></tr>
-        <tr><td className='text-nowrap'>11:50 - 12:05</td><td><a href='https://youtu.be/9nUUGlhBwzc'>An Exploratory Study about Non-functional Requirements Documentation Practices in Agile Teams</a> (<em>Shahraz Nasir, Eduardo Guerra, Luciana Zaina, Jorge Melegati</em>)</td></tr>
-        <tr><td className='text-nowrap'>12:05 - 12:20</td><td><a href='https://youtu.be/0l6_pgq1eK8'>Which Challenges Do Exist with Agile Culture in Practice?</a> (<em>Thorben Kuchel, Michael Neumann, Philipp Diebold, Eva-Maria Schön</em>)</td></tr>
-
-
-        <tr><th className='text-center table-secondary' colSpan={2}></th></tr>
-
-        <tr className='text-center table-primary'><th>Wednesday, March. 29</th><th>Poster Exhibit (room: A046)</th></tr>
-        <tr><td className='text-nowrap'>14:30 - 16:30</td><td>
-          <ul>
-      <li>Agile GUI Testing by computing novel Mobile App Coverage Using Appium Tool  (<em>Sangharatna Godboley, Debasish Dalei, Ravichandra Sadam, Durga Prasad Mohapatr</em>)</li>
-      <li>Differences in Performance, Scalability, and Cost of Using Microservice and Monolithic Architecture (<em>Przemysław Jatkiewicz, Szymon Okrój</em>)</li>
-          </ul>
-        </td></tr>
-
-      </tbody>
-    </Table>
-  </Container>
-*/
