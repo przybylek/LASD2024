@@ -49,8 +49,8 @@ const Program = () => (
         <tr className='text-center table-primary'><th>Wednesday, April 10</th><th>Poster Exhibit (Hallway - 0 floor)</th></tr>
         <tr><td className='text-nowrap'>15:00 - 17:00</td><td>
           <ul>
-             <li>UMask-AFL: Unmasking All Reachable Targets for Comprehensive Agile Fuzzing (<em>Sangharatna Godboley, Bikash Singha, Monika Rani Golla and P. R Krishna</em>)</td></tr></li>
-             <li>Implementing Action Items Over Improving the Format of Retros (<em>Yen Ying Ng and Ryszard Kuduk</em>)</td></tr></li>
+             <li>UMask-AFL: Unmasking All Reachable Targets for Comprehensive Agile Fuzzing (<em>Sangharatna Godboley, Bikash Singha, Monika Rani Golla and P. R Krishna</em>)</li>
+             <li>Implementing Action Items Over Improving the Format of Retros (<em>Yen Ying Ng and Ryszard Kuduk</em>)</li>
           </ul>
         </td></tr>
 
