@@ -31,7 +31,7 @@ const Program = () => (
     <Table bordered className="mt-5">
       <tbody>	
 
-        <tr className='text-center table-primary'><th>Wed., April 10,</th><th>Session I (Room 2); chaired by <em>Adam Przybyłek</em></th></tr>
+        <tr className='text-center table-primary'><th>Wed., April 10</th><th>Session I (Room 2); chaired by <em>Adam Przybyłek</em></th></tr>
         <tr><td className='text-nowrap'>14:30 - 14:40</td><td><a href='/' target="_blank" rel="noopener noreferrer">Track opening</a> (<em>Adam Przybyłek</em>)</td></tr>
         <tr><td className='text-nowrap'>14:40 - 15:00</td><td>Common LeSS Transformation Patterns (<em>Alena Buchalcevova and Jakub Hermanek</em>)</td></tr>
         <tr><td className='text-nowrap'>15:00 - 15:20</td><td>Beyond Technical Debt Unravelling Organisational Debt Concept (<em>Muhammad Ovais Ahmad and Osama Al-Baik</em>)</td></tr>
@@ -39,16 +39,18 @@ const Program = () => (
         <tr><td className='text-nowrap'>15:40 - 16:00</td><td>Navigating Cultural Diversity: Barriers and Benefits in Multicultural Agile Software Development Teams (<em>Daniel Welsch, Luisa Burk, David Mötefindt and Michael Neumann</em>)</td></tr>
 
         <tr><th className='text-center table-secondary' colSpan={2}></th></tr>
-        <tr className='text-center table-primary'><th>Wed., April 10,</th><th>Session II (Room 2); chaired by <em>Michael Neumann</em></th></tr>
+        <tr className='text-center table-primary'><th>Wed., April 10</th><th>Poster Exhibit (Hallway - 0 floor)</th></tr>
+        <tr><td className='text-nowrap' rowSpan={2}>15:00 - 17:00</td><td>UMask-AFL: Unmasking All Reachable Targets for Comprehensive Agile Fuzzing (<em>Sangharatna Godboley, Bikash Singha, Monika Rani Golla and P. R Krishna</em>)</td></tr>
+        <tr><td>Implementing Action Items Over Improving the Format of Retros (<em>Yen Ying Ng and Ryszard Kuduk</em>)</td></tr>
+
+        <tr><th className='text-center table-secondary' colSpan={2}></th></tr>
+        <tr className='text-center table-primary'><th>Wed., April 10</th><th>Session II (Room 2); chaired by <em>Michael Neumann</em></th></tr>
         <tr><td className='text-nowrap'>16:30 - 16:50</td><td>Technical Debt Management in Agile Context: A new framework and case study in a large financial institution (<em>Gisela Archela, Ana C V Melo and Vagner Luiz Gava</em>)</td></tr>
         <tr><td className='text-nowrap'>16:50 - 17:10</td><td>Revisiting Technical Debt Types and Indicators for Software Systems (<em>Dilek Caglayan and Ozden Ozcan-Top</em>)</td></tr>
         <tr><td className='text-nowrap'>17:10 - 17:30</td><td>The use of prototypes as a tool in Agile software development (<em>Vivian Larrea, Milene Selbach Silveira and Tiago da Silva</em>)</td></tr>
 
 
-        <tr><th className='text-center table-secondary' colSpan={2}></th></tr>
-        <tr className='text-center table-primary'><th>Wed., April 10</th><th>Poster Exhibit (Hallway - 0 floor)</th></tr>
-        <tr><td className='text-nowrap' rowSpan={2}>15:00 - 17:00</td><td>UMask-AFL: Unmasking All Reachable Targets for Comprehensive Agile Fuzzing (<em>Sangharatna Godboley, Bikash Singha, Monika Rani Golla and P. R Krishna</em>)</td></tr>
-        <tr><td>Implementing Action Items Over Improving the Format of Retros (<em>Yen Ying Ng and Ryszard Kuduk</em>)</td></tr>
+
 
       </tbody>
     </Table>
