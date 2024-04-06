@@ -32,7 +32,7 @@ const Program = () => (
       <tbody>	
 
         <tr className='text-center table-primary'><th>Wed., April 10</th><th>Session I (Room 2); chaired by <em>Adam Przybyłek</em></th></tr>
-        <tr><td className='text-nowrap'>14:30 - 14:40</td><td><a href='/' target="_blank" rel="noopener noreferrer">Track opening</a> (<em>Adam Przybyłek</em>)</td></tr>
+        <tr><td className='text-nowrap'>14:30 - 14:40</td><td><a href='/LASD2024.pdf' target="_blank" rel="noopener noreferrer">Track opening</a> (<em>Adam Przybyłek</em>)</td></tr>
         <tr><td className='text-nowrap'>14:40 - 15:00</td><td>Common LeSS Transformation Patterns (<em>Alena Buchalcevova and Jakub Hermanek</em>)</td></tr>
         <tr><td className='text-nowrap'>15:00 - 15:20</td><td>Beyond Technical Debt Unravelling Organisational Debt Concept (<em>Muhammad Ovais Ahmad and Osama Al-Baik</em>)</td></tr>
         <tr><td className='text-nowrap'>15:20 - 15:40</td><td>Challenges to Sustaining Agility: An Exploratory Case Study (<em>Mali Senapathi and Diane E Strode</em>)</td></tr>
