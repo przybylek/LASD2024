@@ -12,7 +12,7 @@ const Header = () => (
         </div>
         <div className="col-md-6">
           <h1 className='h1 text-center anchor font-weight-bold'>LASD@<a className='u' href='https://www.sigapp.org/sac/sac2024/'>SAC'24</a></h1>
-          <h2 className='text-center h3 py-3'>Track on <strong>Lean and Agile Software Development</strong></h2>
+          <h2 className='text-center h3 py-3'>Track on <strong>Lean and Agile Software Development<sup>&trade;</sup></strong></h2>
           <h3 className='text-center h4 pb-3'><small>at the 39th ACM/SIGAPP Symposium On Applied Computing</small></h3>
           <h4 className='text-center h5'>April 8 - April 12, 2024</h4>
           <h4 className='text-center h5 pb-3'>Avila, Spain</h4>
